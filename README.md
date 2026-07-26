@@ -1,4 +1,4 @@
-# usbliter8
+# usbliter8 
 
 Tethered bootrom exploit for Apple A12, S4/S5 & A13 SoCs (A12X/Z can theoretically be supported as well, but it's not implemented yet).
 
